@@ -16,7 +16,6 @@ public class Main {
         int randomAge = generateRandomAge();
         int temp = generateRandomTemperature();
         System.out.println(shouldGoOut(randomAge, temp));
-        System.out.println(shouldGoOut(randomAge, temp));
 
 
     }
